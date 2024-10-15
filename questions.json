@@ -1,0 +1,294 @@
+{
+  "heading": "Perfect Tenses",
+  "topics": [
+    {
+      "heading": "Perfect Tenses",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Future perfect tense can be used to make predictions about completed actions in the future.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 0,
+          "explanation": "The future perfect tense is used to describe actions that will be completed by a certain time in the future, which can include predictions."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence uses future perfect tense correctly?",
+          "options": [
+            "a) I will have finished my homework by 8 PM tonight.",
+            "b) She has finished her homework by 8 PM tonight.",
+            "c) They had finished their homework by 8 PM tonight.",
+            "d) We have had finished our homework by 8 PM tonight."
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses 'will have' + past participle to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank: I _______ (never/try) sushi before last night's dinner.",
+          "options": [
+            "a) have never tried",
+            "b) had never tried",
+            "c) will have never tried",
+            "d) never try"
+          ],
+          "answer": 1,
+          "explanation": "This sentence requires past perfect tense to describe an action (or lack of action) before another past event."
+        },
+        {
+          "questionNo": 4,
+          "question": "Present perfect tense uses 'had' + past participle.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 1,
+          "explanation": "Present perfect tense uses 'have/has' + past participle, not 'had'."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank: By the time we reach the airport, the plane _______ (take off).",
+          "options": [
+            "a) has taken off",
+            "b) had taken off",
+            "c) will have taken off",
+            "d) takes off"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires future perfect tense to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 6,
+          "question": "Past perfect tense is formed using 'have/has' + past participle.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 1,
+          "explanation": "The past perfect tense is formed using 'had' + past participle, not 'have/has'."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence uses the present perfect tense correctly?",
+          "options": [
+            "a) I have went to the store yesterday.",
+            "b) She has gone to the store three times this week.",
+            "c) They have go to the store every day.",
+            "d) We has been to the store last month."
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses 'has' + past participle to describe a completed action with current relevance."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank: Before I moved to this city, I _______ (never/see) snow.",
+          "options": [
+            "a) have never seen",
+            "b) had never seen",
+            "c) will have never seen",
+            "d) never see"
+          ],
+          "answer": 1,
+          "explanation": "This sentence requires past perfect tense to describe an action (or lack of action) before another past event."
+        },
+        {
+          "questionNo": 9,
+          "question": "Future perfect tense can describe actions that will be in progress at a specific time in the future.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 1,
+          "explanation": "Future perfect tense describes actions that will be completed by a specific time in the future, not actions in progress."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank: By next summer, I _______ (learn) how to swim.",
+          "options": [
+            "a) have learned",
+            "b) had learned",
+            "c) will have learned",
+            "d) learn"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires future perfect tense to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 11,
+          "question": "Present perfect tense can be used to describe actions that are still ongoing.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 0,
+          "explanation": "Present perfect tense can describe actions that started in the past and are still ongoing in the present."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which sentence uses past perfect tense correctly?",
+          "options": [
+            "a) I had eaten lunch when she called.",
+            "b) She has eaten lunch when I called.",
+            "c) They will have eaten lunch when we call.",
+            "d) We have had eaten lunch when you called."
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses 'had' + past participle to describe an action completed before another past action."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank: They _______ (live) in this house for ten years now.",
+          "options": [
+            "a) have lived",
+            "b) had lived",
+            "c) will have lived",
+            "d) lives"
+          ],
+          "answer": 0,
+          "explanation": "This sentence requires present perfect tense to describe an ongoing action that started in the past and continues to the present."
+        },
+        {
+          "questionNo": 14,
+          "question": "Future perfect tense uses 'had' + past participle.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 1,
+          "explanation": "Future perfect tense uses 'will have' + past participle, not 'had'."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank: She _______ (already/finish) her homework when I called.",
+          "options": [
+            "a) has already finished",
+            "b) had already finished",
+            "c) will have already finished",
+            "d) already finishes"
+          ],
+          "answer": 1,
+          "explanation": "This sentence requires past perfect tense to show an action completed before another past action."
+        },
+        {
+          "questionNo": 16,
+          "question": "Present perfect tense always uses 'have' for all subjects.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 1,
+          "explanation": "Present perfect uses 'have' for I/you/we/they and 'has' for he/she/it."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which sentence uses future perfect tense correctly?",
+          "options": [
+            "a) I will finish my project by next week.",
+            "b) I will have finished my project by next week.",
+            "c) I have finished my project by next week.",
+            "d) I had finished my project by next week."
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses 'will have' + past participle to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank: By the time you arrive, we _______ (prepare) dinner.",
+          "options": [
+            "a) have prepared",
+            "b) had prepared",
+            "c) will have prepared",
+            "d) prepares"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires future perfect tense to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: Before I met you, I _______ (never/have) a true friend.",
+          "options": [
+            "a) have never had",
+            "b) had never had",
+            "c) will have never had",
+            "d) never have"
+          ],
+          "answer": 1,
+          "explanation": "This sentence requires past perfect tense to describe an action (or lack of action) before another past event."
+        },
+        {
+          "questionNo": 20,
+          "question": "Future perfect tense always uses 'will have' for all subjects.",
+          "options": [
+            "a) True",
+            "b) False"
+          ],
+          "answer": 0,
+          "explanation": "Future perfect tense uses 'will have' + past participle for all subjects."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which sentence uses the present perfect tense correctly?",
+          "options": [
+            "a) I have ate lunch already.",
+            "b) She have seen that movie before.",
+            "c) They has gone to school.",
+            "d) We have known each other for years."
+          ],
+          "answer": 3,
+          "explanation": "This sentence correctly uses 'have' + past participle to describe an ongoing action that started in the past."
+        },
+        {
+          "questionNo": 22,
+          "question": "Fill in the blank: By this time next year, I _______ (graduate) from high school.",
+          "options": [
+            "a) have graduated",
+            "b) had graduated",
+            "c) will have graduated",
+            "d) graduates"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires future perfect tense to describe an action that will be completed by a specific future time."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blank: By the time we reach the beach, the sun _______ (set).",
+          "options": [
+            "a) has set",
+            "b) had set",
+            "c) will have set",
+            "d) sets"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires future perfect tense because it describes an action (the sun setting) that will be completed by a specific time in the future (when we reach the beach)."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank: When I arrived at the party, my friends _______ (already/leave).",
+          "options": [
+            "a) have already left",
+            "b) had already left",
+            "c) will have already left",
+            "d) already leave"
+          ],
+          "answer": 1,
+          "explanation": "This sentence uses past perfect tense because it describes an action (friends leaving) that was completed before another past action (arriving at the party)."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which sentence uses the present perfect tense correctly?",
+          "options": [
+            "a) I have ate three apples today.",
+            "b) She have gone to the store.",
+            "c) They has played soccer before.",
+            "d) We have lived here for five years."
+          ],
+          "answer": 3,
+          "explanation": "This sentence correctly uses 'have' + past participle (lived) to describe an action that started in the past and continues to the present."
+        }
+      ]
+    }
+  ]
+}
